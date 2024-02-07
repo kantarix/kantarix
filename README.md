@@ -9,7 +9,7 @@ A young and ambitious developer with a focus on Java development. I am actively 
 [![Linkedin Badge](https://img.shields.io/badge/-Vera_Petrova-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vera-petrova-ev/)](https://www.linkedin.com/in/vera-petrova-ev/)
 [![Telegram Badge](https://img.shields.io/badge/-Vera_Petrova-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/kantarix)](https://t.me/kantarix)
 
-[![Telegram Channel Badge](https://img.shields.io/badge/-Faang_Jorney-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/faangjorney)](https://t.me/faangjorney)
+[![Telegram Channel Badge](https://img.shields.io/badge/-Coding_Jorney-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/faangjorney)](https://t.me/faangjorney)
 
 🌱 I’m currently learning Java development
 
