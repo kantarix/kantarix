@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-["Investing in knowledge always yields the best benefits."](https://t.me/faangjorney)
+["Investing in knowledge always yields the best benefits."](https://t.me/its_it_safari)
 
 
 A young and ambitious developer with a focus on Java development. I am actively developing my knowledge and skills in this area.
@@ -9,7 +9,7 @@ A young and ambitious developer with a focus on Java development. I am actively 
 [![Linkedin Badge](https://img.shields.io/badge/-Vera_Petrova-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vera-petrova-ev/)](https://www.linkedin.com/in/vera-petrova-ev/)
 [![Telegram Badge](https://img.shields.io/badge/-Vera_Petrova-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/kantarix)](https://t.me/kantarix)
 
-[![Telegram Channel Badge](https://img.shields.io/badge/-Coding_Jorney-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/faangjorney)](https://t.me/faangjorney)
+[![Telegram Channel Badge](https://img.shields.io/badge/-IT_Safari_🌴-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/its_it_safari)](https://t.me/its_it_safari)
 
 🌱 I’m currently learning Java development
 
